@@ -16,4 +16,4 @@ def user(id):
 
 # if the application is being run directly from a CLI call, as opposed to referenced by another program as a module
 if __name__ == '__main__':
-    app.run(port=5000)
+    app.run(port=5002)
